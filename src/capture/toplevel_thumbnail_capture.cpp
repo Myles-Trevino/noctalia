@@ -6,11 +6,9 @@
 #include "wayland/wayland_connection.h"
 
 #include <algorithm>
-#include <array>
 #include <cerrno>
 #include <chrono>
 #include <cmath>
-#include <cstring>
 #include <limits>
 #include <new>
 #include <stb/stb_image_resize2.h>
